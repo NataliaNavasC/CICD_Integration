@@ -1,2 +1,2 @@
 # CICD_Integration
-CD-CI practice (Jenkins + Docer)
+CD-CI practice (Jenkins + Docker)
