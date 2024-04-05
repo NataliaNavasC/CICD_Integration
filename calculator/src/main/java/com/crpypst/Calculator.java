@@ -20,8 +20,7 @@ public class Calculator {
         }
         return -1; // Error flag
     }
-
     public double plus2( double a ){
-        return a + 2;
+        return a + 2; // test
     }
 }
