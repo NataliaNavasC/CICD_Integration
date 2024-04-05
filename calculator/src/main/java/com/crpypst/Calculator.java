@@ -2,7 +2,7 @@ package com.crpypst;
 
 public class Calculator {
     public static void main(String[] args) {
-        System.out.println("Hello world! V2");
+        System.out.println("Hello world! V3");
     }
 
     public double sum(double a, double b){
