@@ -21,13 +21,13 @@ public class CalculatorTest {
     @Test
     void twoMinusTwo() {
         Calculator calculator = new Calculator();
-        assertEquals(0,calculator.subtraction(2, 2));
+        assertEquals(10,calculator.subtraction(2, 2));
     }
     
     @Test
     void twoByFive() {
         Calculator calculator = new Calculator();
-        assertEquals(10,calculator.multiplication(2, 5));
+        assertEquals(15,calculator.multiplication(2, 5));
     }
 
     @Test
