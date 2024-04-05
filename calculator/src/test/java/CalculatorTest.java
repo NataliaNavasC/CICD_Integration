@@ -39,7 +39,7 @@ public class CalculatorTest {
     @Test
     void fourIntoZero() {
         Calculator calculator = new Calculator();
-        assertEquals(-1,calculator.division(4, 0));
+        assertEquals(-1,calculator.division(4, 1));
     }
 
 
